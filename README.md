@@ -37,7 +37,7 @@
 ### Frontend
 <div style="float:left">
 <img src="https://img.shields.io/badge/openlayers-ffffff.svg?style=for-the-badge&logo=Openlayers&logoColor=1F6B75" />
-<img src="https://img.shields.io/badge/vuedotjs-ffffff.svg?style=for-the-badge&logo=Vue.js&logoColor=1F6B75" />
+<img src="https://img.shields.io/badge/vue.js-ffffff.svg?style=for-the-badge&logo=Vuedotjs&logoColor=1F6B75" />
 </div>
 
 ### Mobile
