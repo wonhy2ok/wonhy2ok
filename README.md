@@ -1,5 +1,5 @@
 <!--타이틀 부분-->
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Wonhyeok`sGitbuh%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Wonhyeok`s%20Gitbuh&fontSize=90)
 
 <!--
 ## Hi there 👋
