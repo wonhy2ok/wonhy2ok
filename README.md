@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/oracle-ffffff.svg?style=for-the-badge&logo=Oracle&logoColor=F80000" />
 </div>
 
-### Gis(Tool)
+### Gis Tool
 <div style="float:left">
 <img src="https://img.shields.io/badge/qgis-ffffff.svg?style=for-the-badge&logo=Qgis&logoColor=589632" />
 <img src="https://img.shields.io/badge/arcgis-ffffff.svg?style=for-the-badge&logo=ArcGIS&logoColor=2C7AC3" />
