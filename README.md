@@ -6,14 +6,31 @@
 
 <!--skill-->
 ### Backend
-<img src="https://img.shields.io/badge/Spring-000000.svg?style=for-the-badge&logo=Spring&logoColor=6DB33F" />
-<img src="https://img.shields.io/badge/apachekafka-000000.svg?style=for-the-badge&logo=apache%20Kafka&logoColor=231F20" />
+<img src="https://img.shields.io/badge/Spring-ffffff.svg?style=for-the-badge&logo=Spring&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/apachekafka-ffffff.svg?style=for-the-badge&logo=apache%20Kafka&logoColor=231F20" />
+
 ### DB
+<img src="https://img.shields.io/badge/postgresql-ffffff.svg?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/mariadb-ffffff.svg?style=for-the-badge&logo=MariaDB&logoColor=003545" />
+<img src="https://img.shields.io/badge/oracle-ffffff.svg?style=for-the-badge&logo=Oracle&logoColor=F80000" />
+
+### Infra
+<img src="https://img.shields.io/badge/docker-ffffff.svg?style=for-the-badge&logo=Docker&logoColor=2496ED" />
+
+### CI/CD
+<img src="https://img.shields.io/badge/jenkins-ffffff.svg?style=for-the-badge&logo=Jenkins&logoColor=D24939" />
 
 ### Frontend
+<img src="https://img.shields.io/badge/openlayers-ffffff.svg?style=for-the-badge&logo=Openlayers&logoColor=1F6B75" />
+<img src="https://img.shields.io/badge/vuedotjs-ffffff.svg?style=for-the-badge&logo=Vue.js&logoColor=1F6B75" />
 
 ### Mobile
-<img src="https://img.shields.io/badge/flutter-000000.svg?style=for-the-badge&logo=flutter&logoColor=02569B" />
+<img src="https://img.shields.io/badge/flutter-ffffff.svg?style=for-the-badge&logo=Flutter&logoColor=02569B" />
+
+### Ide
+<img src="https://img.shields.io/badge/intellijidea-ffffff.svg?style=for-the-badge&logo=Intellij%20IDEA&logoColor=000000" />
+<img src="https://img.shields.io/badge/eclipseide-ffffff.svg?style=for-the-badge&logo=Eclipse%20IDE&logoColor=#2C2255" />
+
 ### 
 <!--
 ## Hi there 👋
