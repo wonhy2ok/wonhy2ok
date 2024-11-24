@@ -1,6 +1,8 @@
-## Hi there 👋
+<!--타이틀 부분-->
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Wonhyeok`s Gitbuh%20render&fontSize=90)
 
 <!--
+## Hi there 👋
 **wonhy2ok/wonhy2ok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
