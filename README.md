@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=wonhy2ok`s%20Github&fontSize=90)
 
 <!--Language Card Layout-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonhy2ok&layout=donut)](https://github.com/wonhy2ok/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonhy2ok&layout=donut)]
 
 <!--skill-->
 ### Backend
