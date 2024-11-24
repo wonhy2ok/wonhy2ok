@@ -6,8 +6,10 @@
 
 <!--skill-->
 ### Backend
+<div style="float:left">
 <img src="https://img.shields.io/badge/Spring-ffffff.svg?style=for-the-badge&logo=Spring&logoColor=6DB33F" />
 <img src="https://img.shields.io/badge/apachekafka-ffffff.svg?style=for-the-badge&logo=apache%20Kafka&logoColor=231F20" />
+</div>
 
 ### DB
 <img src="https://img.shields.io/badge/postgresql-ffffff.svg?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1" />
