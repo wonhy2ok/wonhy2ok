@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonhy2ok&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--skill-->
-<img src="https://img.shields.io/badge/Spring-000000.svg?style=for-the-badge&logo=react&logoColor=#6DB33F" />
+<img src="https://img.shields.io/badge/Spring-000000.svg?style=for-the-badge&logo=Spring&logoColor=6DB33F" />
 
 <!--
 ## Hi there 👋
