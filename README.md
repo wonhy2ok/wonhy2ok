@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Wonhyeok`s%20Gitbuh&fontSize=90)
 
 <!--Language Card Layout-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonhy2ok&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ## Hi there 👋
