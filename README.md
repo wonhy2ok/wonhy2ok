@@ -1,5 +1,5 @@
 <!--타이틀 부분-->
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=wonhy2ok`s%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6&height=300&section=header&text=wonhy2ok`s%20Github&fontSize=90)
 
 <!--Language Card Layout-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonhy2ok&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
