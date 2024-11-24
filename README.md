@@ -48,6 +48,7 @@
 ### Ide
 <div style="float:left">
 <img src="https://img.shields.io/badge/intellijidea-ffffff.svg?style=for-the-badge&logo=Intellij%20IDEA&logoColor=000000" />
+<img src="https://img.shields.io/badge/datagrip-ffffff.svg?style=for-the-badge&logo=DataGrip&logoColor=000000" />
 <img src="https://img.shields.io/badge/eclipseide-ffffff.svg?style=for-the-badge&logo=Eclipse%20IDE&logoColor=2C2255" />
 </div>
 
